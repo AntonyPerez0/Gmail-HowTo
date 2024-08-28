@@ -1,5 +1,7 @@
 # Gmail Account Creation Guide
 
+![A cool picture]({{ site.baseurl }}docs\assets\images\download.png)
+
 This guide outlines the steps involved in creating a new Gmail account, granting you access to a suite of Google services.
 
 ## Procedure
@@ -8,18 +10,6 @@ This guide outlines the steps involved in creating a new Gmail account, granting
 
 * Launch your web browser and navigate to the Gmail sign-up page: [https://accounts.google.com/signup](https://accounts.google.com/signup)
 * You will be presented with a form prompting you to enter your personal information.
-
-<div align="center">
-<table border=0 style="border: 1.2px solid #c6c6c6 !important; border-spacing: 2px; width: auto !important;">
-<tr><td valign=top style="border: 1.2px solid #c6c6c6 !important; padding: 2px !important;">
-<a href="https://accounts.google.com/signup" target="_blank">
-<div align=center valign=top><img src="https://ssl.gstatic.com/accounts/signup/glif/account_creation_visual.png" alt="Gmail sign-up page" style="margin: 0px !important; height: 200px !important;">
-<p>Gmail sign-up page</p>
-</div>
-</a></td></tr><tr></tr></table></div>
-
-2. **Populate the Form**
-
 * **First Name:** Input your first name.
 * **Last Name:** Input your last name.
 * **Username:** Select a unique username for your Gmail address. This will constitute the portion preceding "@gmail.com."
