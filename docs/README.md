@@ -2,7 +2,7 @@
 
 # Gmail Account Creation Guide
 
-![A cool picture]({{ C:\Users\Antony\Desktop\Gmail-HowTo\docs\assets\images\download.png }}docs\assets\images\download.png)
+![picture](assets/images/download.png)
 
 This guide outlines the steps involved in creating a new Gmail account, granting you access to a suite of Google services.
 
