@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="style.css">
+
 # Gmail Account Creation Guide
 
 ![A cool picture]({{ C:\Users\Antony\Desktop\Gmail-HowTo\docs\assets\images\download.png }}docs\assets\images\download.png)
