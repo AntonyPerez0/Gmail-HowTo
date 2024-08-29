@@ -64,6 +64,10 @@ Once finished typing your name then click the **Next** button.
 ![](assets/20240828_192735_Screenshot_2024-08-28 192243.png)
 
 
+14.) This is where you will review the information of your account to make sure it is all correct. Once everything looks correct then you will click the **Next** button.
+
+![](assets/20240828_193149_Screenshot_2024-08-28 193044.png)
+
 
 ## Best Practices for Password Security
 
