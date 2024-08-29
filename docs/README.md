@@ -59,6 +59,11 @@ Once finished typing your name then click the **Next** button.
 ![](assets/20240828_191948_Screenshot_2024-08-28 191803.png)
 
 
+13.) You will have the option to input a recovery Email address in the event you cannot access your Gmail account. The reovery account will let you have another way to login to the Gmail account if there are issues logging in the main way. You also have the option to skip this step entirely if you click the skip button. Either fill in the recovery email portion and click the **Next** button or click the **Skip** button.
+
+![](assets/20240828_192735_Screenshot_2024-08-28 192243.png)
+
+
 
 ## Best Practices for Password Security
 
