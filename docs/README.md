@@ -12,8 +12,6 @@
 
 2.) Once you find the browser icon, double click it to open the web browser.
 
-***# Navigating to Account Creation Page***
-
 3.) At the top of the browser in the URL bar type
 
 `https://accounts.google.com/`
@@ -54,6 +52,12 @@ Once finished typing your name then click the **Next** button.
 11.) Then type in the bar your vaild phone number that Google will send a verification code to. You will need to use this code in the next step. Then click the **Next** button.
 
 ![](assets/20240828_191531_Screenshot_2024-08-28 191523.png)
+
+
+12.) You should recieve a text message to the number you have provided in the previous step and it will be a code. Type the code that was texted to you into the box in the page. Then click the **Next** button.
+
+![](assets/20240828_191948_Screenshot_2024-08-28 191803.png)
+
 
 
 ## Best Practices for Password Security
