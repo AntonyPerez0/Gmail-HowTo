@@ -12,4 +12,8 @@
     a { 
         color: #0084ff;
     }
+
+    img {
+        background-color: transparent !important; 
+      }
 }
