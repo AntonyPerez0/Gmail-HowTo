@@ -27,6 +27,13 @@
 
 ![](assets/20240828_181437_Screenshot_2024-08-28 181324.png)
 
+
+6.) Type in your *First name* in the first box and then your *Last name* in the second box.
+
+![](assets/20240828_183309_Screenshot_2024-08-28 183222.png)
+
+
+
 ## Best Practices for Password Security
 
 * Utilize a combination of uppercase and lowercase letters, numbers, and symbols
