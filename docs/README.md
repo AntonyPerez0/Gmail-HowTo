@@ -4,7 +4,6 @@
 
 **This guide will show you how to create a Gmail account from start to finish.**
 
-
 ![](assets/20240828_175511_654d2b1dc618ee11e08b2235_Gmail2020.logo.png)
 
 ## Procedure
@@ -13,28 +12,20 @@
 
 1.) Locate your web browser which is usually located on the desktop of your computer.
 
-
-2.) Once you find the browser, double click it to open the web browser.
-
+2.) Once you find the browser icon, double click it to open the web browser.
 
 3.) At the top of the browser in the URL bar type
 
 `https://accounts.google.com/`
 
-
 4.) Click on the *Create account* button
-
 
 ![](assets/20240828_180941_Screenshot_2024-08-28 180845.png)
 
-5. **Verify Your Phone Number (if applicable)**
 
-* If you provided a phone number, you will receive a verification code via SMS or a phone call
-* Enter the code to verify your phone number
+5.) Then click on the option that says *For my personal use*.
 
-6. **Account Creation Complete**
-
-* Your Gmail account has been successfully created. You will be automatically redirected to your new Gmail inbox
+![](assets/20240828_181437_Screenshot_2024-08-28 181324.png)
 
 ## Best Practices for Password Security
 
