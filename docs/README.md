@@ -2,7 +2,8 @@
 
 # Gmail Account Creation Guide
 
-![picture](assets/images/pic1.png)
+
+![](assets/20240828_171718_pic1.png)
 
 This guide outlines the steps involved in creating a new Gmail account, granting you access to a suite of Google services.
 
