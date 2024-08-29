@@ -88,5 +88,3 @@ Once finished typing your name then click the **Next** button.
 
 * Should you encounter any difficulties during the sign-up process, please refer to Google's official help resources
 * Upon creating a Gmail account, you gain access to other Google services including Google Drive, Google Docs, and YouTube
-
-**Your Gmail account is now ready for use**
