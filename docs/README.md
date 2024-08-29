@@ -12,9 +12,7 @@
 
 2.) Once you find the browser icon, double click it to open the web browser.
 
-3.) At the top of the browser in the URL bar type
-
-`https://accounts.google.com/`
+3.) At the top of the browser in the URL bar type `https://accounts.google.com/` then hit Enter.
 
 4.) Click on the *Create account* button
 
@@ -38,50 +36,47 @@ Once finished typing your name then click the **Next** button.
 
 ![](assets/20240828_184917_Screenshot_2024-08-28 184350.png)
 
-
 9.) Type in your password that you have created into the first box and then retype it into the second box. Make sure your password has a mix of letters, numbers, and symbols to make it as secure as possible. Once you have filled out both boxes then click the **Next** button.
 
 ![](assets/20240828_190805_Screenshot_2024-08-28 190634.png)
-
 
 10.) Click the flag icon next to the bar to select which county your phone number is located in.
 
 ![](assets/20240828_191240_Screenshot_2024-08-28 191124.png)
 
-
-11.) Then type in the bar your vaild phone number that Google will send a verification code to. You will need to use this code in the next step. Then click the **Next** button.
+11.) Then type in the bar your valid phone number that Google will send a verification code to. You will need to use this code in the next step. Then click the **Next** button.
 
 ![](assets/20240828_191531_Screenshot_2024-08-28 191523.png)
 
-
-12.) You should recieve a text message to the number you have provided in the previous step and it will be a code. Type the code that was texted to you into the box in the page. Then click the **Next** button.
+12.) You should receive a text message to the number you have provided in the previous step and it will be a code. Type the code that was texted to you into the box in the page. Then click the **Next** button.
 
 ![](assets/20240828_191948_Screenshot_2024-08-28 191803.png)
 
-
-13.) You will have the option to input a recovery Email address in the event you cannot access your Gmail account. The reovery account will let you have another way to login to the Gmail account if there are issues logging in the main way. You also have the option to skip this step entirely if you click the skip button. Either fill in the recovery email portion and click the **Next** button or click the **Skip** button.
+13.) You will have the option to input a recovery Email address in the event you cannot access your Gmail account. The recovery account will let you have another way to login to the Gmail account if there are issues logging in the main way. You also have the option to skip this step entirely if you click the skip button. Either fill in the recovery email portion and click the **Next** button or click the **Skip** button.
 
 ![](assets/20240828_192735_Screenshot_2024-08-28 192243.png)
-
 
 14.) This is where you will review the information of your account to make sure it is all correct. Once everything looks correct, then you will click the **Next** button.
 
 ![](assets/20240828_193149_Screenshot_2024-08-28 193044.png)
 
-
 15.) Read the *Privacy and Terms* all the way through to know what you are agreeing to and once you are done you can scroll down to the bottom of the page and click the **I agree** button.
 
 ![](assets/20240828_193604_Screenshot_2024-08-28 193444.png)
-
 
 16.) Click the confirm button to accept that you want personalization on your account to continue or if you do not want personalization you can click more options to turn off some options.
 
 ![](assets/20240828_193845_Screenshot_2024-08-28 193647.png)
 
-
 17.) You have now successfully created a Gmail account and will be put into the main page. You can now click the dotted grid at the top right of the page and then select Gmail from the list.
 
 ![](assets/20240828_194826_Screenshot_2024-08-28 194449.png)
+
+18.) You are now in the main area for Gmail and can now compose and receive emails from here.
+
+**Your Gmail account is now ready for use**
+
+![](assets/20240828_195131_Screenshot_2024-08-28 195041.png)
 
 ## Best Practices for Password Security
 
