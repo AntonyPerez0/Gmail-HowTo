@@ -8,11 +8,11 @@
 
 ## Procedure
 
-***# Opening your browser***
-
 1.) Locate your web browser which is usually located on the desktop of your computer **(Chrome, Firefox, or Edge)**.
 
 2.) Once you find the browser icon, double click it to open the web browser.
+
+***# Navigating to Account Creation Page***
 
 3.) At the top of the browser in the URL bar type
 
@@ -22,15 +22,9 @@
 
 ![](assets/20240828_180941_Screenshot_2024-08-28 180845.png)
 
-
-<br>
-
 5.) Then click on the option that says *For my personal use*.
 
 ![](assets/20240828_181437_Screenshot_2024-08-28 181324.png)
-
-
-<br>
 
 6.) Type in your *First name* in the first box and then your *Last name* in the second box.
 
@@ -38,22 +32,19 @@ Once finished typing your name then click the **Next** button.
 
 ![](assets/20240828_183309_Screenshot_2024-08-28 183222.png)
 
-
-<br>
-
 7.) Fill out all the information that pertains to you date of birth as well as your gender and then click **Next**.
 
 ![](assets/20240828_183935_Screenshot_2024-08-28 183802.png)
 
-
-<br>
-
-8.) Create a username that is unique to you and not taken by another user. If the account you have tried to enter is taken then try another name or combination of numbers at the end of the username. The account username must only contain *(Letters, Numbers, and Periods)*.
+8.) Create a username that is unique to you and not taken by another user. If the account you have tried to enter is taken then try another name or combination of numbers at the end of the username. The account username must only contain *(Letters, Numbers, and Periods)*. After you have created a non-taken username then click **Next**.
 
 ![](assets/20240828_184917_Screenshot_2024-08-28 184350.png)
 
 
-<br>
+9.) Type in your password that you have created into the first box and then retype it into the second box. Make sure your password has a mix of letters, numbers, and symbols to make it as secure as possible.
+
+![](assets/20240828_190805_Screenshot_2024-08-28 190634.png)
+
 
 
 ## Best Practices for Password Security
