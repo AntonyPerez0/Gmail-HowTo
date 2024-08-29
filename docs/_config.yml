@@ -1,0 +1,47 @@
+# Site Settings
+title: My Jekyll Site # Your site's title
+description: A wonderful website built with Jekyll # A brief description of your site
+author: Your Name # Your name or the site's author
+email: your-email@example.com # Your email address (optional)
+url: https://your-username.github.io # Your site's URL (if hosted on GitHub Pages)
+baseurl: /your-repo-name # Base URL for your project (if hosted in a subdirectory)
+
+# Build Settings
+markdown: kramdown # Markdown processor (Kramdown is recommended)
+theme: minima # Jekyll theme (Minima is a simple default)
+plugins: # Jekyll plugins (uncomment or add as needed)
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Exclude Files/Folders from the Build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+# Other Settings
+permalink: /:title/ # URL structure for your posts
+timezone: America/Los_Angeles # Set your timezone
+
+# Collections (e.g., for blog posts)
+collections:
+  posts:
+    output: true
+    permalink: /:categories/:year/:month/:day/:title/
+
+# Defaults for Front Matter (metadata in your posts)
+defaults:
+  - scope:
+      path: "" # An empty string here means all files in the project
+      type: posts
+    values:
+      layout: post
+      author: Your Name # Set a default author for all posts
+
+# GitHub Pages-specific settings (if applicable)
+github:
+  is_project_page: false # Set to true if this is a GitHub project page

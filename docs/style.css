@@ -1,15 +1,15 @@
 @media (prefers-color-scheme: dark) {
     body {
-        background-color: #222; /* Dark background */
-        color: #eee; /* Light text */
+        background-color: #222; 
+        color: #eee; 
     }
 
-    /* Add more specific styles for other elements as needed */
-    h1, h2, h3 { /* Example: Adjust header colors */
+    
+    h1, h2, h3 { 
         color: #f0f0f0;
     }
 
-    a { /* Example: Adjust link colors */
+    a { 
         color: #0084ff;
     }
 }
