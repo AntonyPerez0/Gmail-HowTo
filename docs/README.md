@@ -2,7 +2,7 @@
 
 # Gmail Account Creation Guide
 
-![]( {{ site.baseurl }}/assets/20240828_171718_pic1.png){: width="300" height="200"}
+![]( {{ site.baseurl }}/assets/20240828_171718_pic1.png){: width="400" height="200"}
 
 This guide outlines the steps involved in creating a new Gmail account, granting you access to a suite of Google services.
 
