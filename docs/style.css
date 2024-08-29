@@ -1,3 +1,8 @@
+p {
+    margin-bottom: 2em; 
+  }
+
+
 @media (prefers-color-scheme: dark) {
     body {
         background-color: #222; 
@@ -12,7 +17,4 @@
     a { 
         color: #0084ff;
     }
-    p {
-        margin-bottom: 1.5em; 
-      }
 }
