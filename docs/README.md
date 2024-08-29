@@ -23,9 +23,13 @@
 ![](assets/20240828_180941_Screenshot_2024-08-28 180845.png)
 
 
+
+
 5.) Then click on the option that says *For my personal use*.
 
 ![](assets/20240828_181437_Screenshot_2024-08-28 181324.png)
+
+
 
 
 6.) Type in your *First name* in the first box and then your *Last name* in the second box.
@@ -35,9 +39,13 @@ Once finished typing your name then click the **Next** button.
 ![](assets/20240828_183309_Screenshot_2024-08-28 183222.png)
 
 
+
+
 7.) Fill out all the information that pertains to you date of birth as well as your gender and then click **Next**.
 
 ![](assets/20240828_183935_Screenshot_2024-08-28 183802.png)
+
+
 
 
 8.) Create a username that is unique to you and not taken by another user. If the account you have tried to enter is taken then try another name or combination of numbers at the end of the username. The account username must only contain *(Letters, Numbers, and Periods)*.
