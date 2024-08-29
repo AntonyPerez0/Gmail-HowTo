@@ -1,14 +1,14 @@
 <link rel="stylesheet" href="style.css">
 
-# Gmail Account Creation Guide
+# **Gmail Account Creation Guide**
 
-![]( {{ site.baseurl }}/assets/20240828_171718_pic1.png){: width="400" height="200"}
+![](assets/20240828_174109_pic1.png)
 
-This guide outlines the steps involved in creating a new Gmail account, granting you access to a suite of Google services.
+**This guide will show you how to create a Gmail account from start to finish.**
 
 ## Procedure
 
-**STEP 1**
+***# STEP 1***
 
 * Launch your web browser and navigate to the Gmail sign-up page: [https://accounts.google.com/signup](https://accounts.google.com/signup)
 * You will be presented with a form prompting you to enter your personal information.
