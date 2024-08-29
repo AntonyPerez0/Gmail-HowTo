@@ -39,11 +39,20 @@ Once finished typing your name then click the **Next** button.
 
 ![](assets/20240828_183935_Screenshot_2024-08-28 183802.png)
 
+
+8.) Create a username that is unique to you and not taken by another user. If the account you have tried to enter is taken then try another name or combination of numbers at the end of the username. The account username must only contain *(Letters, Numbers, and Periods)*.
+
+![](assets/20240828_184917_Screenshot_2024-08-28 184350.png)
+
+
+
+
+
 ## Best Practices for Password Security
 
-* Utilize a combination of uppercase and lowercase letters, numbers, and symbols
-* Avoid incorporating easily guessable information such as your name, birthday, or pet's name
-* Consider employing a password manager to generate and securely store complex passwords
+* Utilize a combination of uppercase and lowercase letters, and numbers.
+* Avoid incorporating easily guessable information such as your name, birthday, or pet's name.
+* Consider employing a password manager to generate and securely store complex passwords.
 
 ## Additional Considerations
 
