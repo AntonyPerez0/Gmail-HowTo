@@ -1,31 +1,26 @@
 <link rel="stylesheet" href="style.css">
 
-# **Gmail Account Creation Guide**
-
-![](assets/20240828_174109_pic1.png)
+# ***Gmail Account Creation Guide***
 
 **This guide will show you how to create a Gmail account from start to finish.**
 
+
+![](assets/20240828_175511_654d2b1dc618ee11e08b2235_Gmail2020.logo.png)
+
 ## Procedure
 
-***# STEP 1***
+***# Opening your browser***
 
-* Launch your web browser and navigate to the Gmail sign-up page: [https://accounts.google.com/signup](https://accounts.google.com/signup)
-* You will be presented with a form prompting you to enter your personal information.
-* **First Name:** Input your first name.
-* **Last Name:** Input your last name.
-* **Username:** Select a unique username for your Gmail address. This will constitute the portion preceding "@gmail.com."
-* **Password:** Construct a strong password. It is recommended that the password be at least 8 characters long and include a mix of uppercase letters, lowercase letters, numbers, and symbols.
-* **Confirm Password:** Re-enter your password to ensure accuracy.
+1.) Locate your web browser which is usually located on the desktop of your computer.
 
-3. **Provide Additional Information (Optional)**
 
-* **Phone Number:** You may optionally provide your phone number for account recovery and security purposes
-* **Recovery Email Address:** You have the option to designate a recovery email address in case you forget your password
-* **Birthdate:** Enter your birthdate
-* **Gender:** Select your gender
+2.) Once you find the browser, double click it to open the web browser.
 
-4. **Accept the Terms**
+
+3.) At the top of the browser in the URL bar type
+
+`https://accounts.google.com/`
+
 
 * Review Google's Terms of Service and Privacy Policy
 * If you agree to the terms, click the "Next" or "I Agree" button
