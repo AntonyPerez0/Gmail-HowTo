@@ -48,7 +48,7 @@ Once finished typing your name then click the **Next** button.
 
 ![](assets/20240828_191531_Screenshot_2024-08-28 191523.png)
 
-12.) You should receive a text message to the number you have provided in the previous step and it will be a code. Type the code that was texted to you into the box in the page. Then click the **Next** button.
+12.) You should receive a text message to the phone number you have provided in the previous step and it will be a code. Type the code that was texted to you into the box in the page. Then click the **Next** button.
 
 ![](assets/20240828_191948_Screenshot_2024-08-28 191803.png)
 
