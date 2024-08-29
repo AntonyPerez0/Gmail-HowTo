@@ -30,9 +30,14 @@
 
 6.) Type in your *First name* in the first box and then your *Last name* in the second box.
 
+Once finished typing your name then click the **Next** button.
+
 ![](assets/20240828_183309_Screenshot_2024-08-28 183222.png)
 
 
+7.) Fill out all the information that pertains to you date of birth as well as your gender and then click **Next**.
+
+![](assets/20240828_183935_Screenshot_2024-08-28 183802.png)
 
 ## Best Practices for Password Security
 
