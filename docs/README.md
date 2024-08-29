@@ -22,8 +22,10 @@
 `https://accounts.google.com/`
 
 
-* Review Google's Terms of Service and Privacy Policy
-* If you agree to the terms, click the "Next" or "I Agree" button
+4.) Click on the *Create account* button
+
+
+![](assets/20240828_180941_Screenshot_2024-08-28 180845.png)
 
 5. **Verify Your Phone Number (if applicable)**
 
