@@ -41,10 +41,19 @@ Once finished typing your name then click the **Next** button.
 ![](assets/20240828_184917_Screenshot_2024-08-28 184350.png)
 
 
-9.) Type in your password that you have created into the first box and then retype it into the second box. Make sure your password has a mix of letters, numbers, and symbols to make it as secure as possible.
+9.) Type in your password that you have created into the first box and then retype it into the second box. Make sure your password has a mix of letters, numbers, and symbols to make it as secure as possible. Once you have filled out both boxes then click the **Next** button.
 
 ![](assets/20240828_190805_Screenshot_2024-08-28 190634.png)
 
+
+10.) Click the flag icon next to the bar to select which county your phone number is located in.
+
+![](assets/20240828_191240_Screenshot_2024-08-28 191124.png)
+
+
+11.) Then type in the bar your vaild phone number that Google will send a verification code to. You will need to use this code in the next step. Then click the **Next** button.
+
+![](assets/20240828_191531_Screenshot_2024-08-28 191523.png)
 
 
 ## Best Practices for Password Security
