@@ -10,7 +10,7 @@
 
 ***# Opening your browser***
 
-1.) Locate your web browser which is usually located on the desktop of your computer.
+1.) Locate your web browser which is usually located on the desktop of your computer **(Chrome, Firefox, or Edge)**.
 
 2.) Once you find the browser icon, double click it to open the web browser.
 
