@@ -79,6 +79,9 @@ Once finished typing your name then click the **Next** button.
 ![](assets/20240828_193845_Screenshot_2024-08-28 193647.png)
 
 
+17.) You have now successfully created a Gmail account and will be put into the main page. You can now click the dotted grid at the top right of the page and then select Gmail from the list.
+
+![](assets/20240828_194826_Screenshot_2024-08-28 194449.png)
 
 ## Best Practices for Password Security
 
