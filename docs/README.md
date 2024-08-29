@@ -64,9 +64,20 @@ Once finished typing your name then click the **Next** button.
 ![](assets/20240828_192735_Screenshot_2024-08-28 192243.png)
 
 
-14.) This is where you will review the information of your account to make sure it is all correct. Once everything looks correct then you will click the **Next** button.
+14.) This is where you will review the information of your account to make sure it is all correct. Once everything looks correct, then you will click the **Next** button.
 
 ![](assets/20240828_193149_Screenshot_2024-08-28 193044.png)
+
+
+15.) Read the *Privacy and Terms* all the way through to know what you are agreeing to and once you are done you can scroll down to the bottom of the page and click the **I agree** button.
+
+![](assets/20240828_193604_Screenshot_2024-08-28 193444.png)
+
+
+16.) Click the confirm button to accept that you want personalization on your account to continue or if you do not want personalization you can click more options to turn off some options.
+
+![](assets/20240828_193845_Screenshot_2024-08-28 193647.png)
+
 
 
 ## Best Practices for Password Security
